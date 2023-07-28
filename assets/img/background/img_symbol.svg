@@ -1,0 +1,31 @@
+<svg width="279" height="640" viewBox="0 0 279 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4" clip-path="url(#clip0_1_223)">
+<path d="M194.379 538.881L194.379 675.352L23.871 577.367C9.59741 569.164 0.797341 553.957 0.797344 537.495L0.797363 427.635L194.379 538.881Z" stroke="url(#paint0_linear_1_223)"/>
+<path d="M194.38 544.138L194.38 680.609L23.8715 582.623C9.5979 574.421 0.797829 559.214 0.797832 542.751L0.797851 432.892L194.38 544.138Z" stroke="url(#paint1_linear_1_223)"/>
+<path d="M2.30518 282L348.305 481.931L348.305 728L43.7801 552.035C18.1233 537.209 2.30514 509.724 2.30514 479.97L2.30518 282Z" fill="url(#paint2_linear_1_223)"/>
+<path opacity="0.2" d="M0.305176 487L-nan -nanL0.305176 487C0.305181 457.909 15.9984 431.083 41.3495 416.839L348.305 244.372L348.305 1.97047e-07L36.5288 179.267C14.1206 192.151 0.305223 216.038 0.305219 241.897L0.305176 487Z" fill="url(#paint3_linear_1_223)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_223" x1="172.687" y1="660.003" x2="20.6603" y2="484.998" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B2D2F8" stop-opacity="0"/>
+<stop offset="1" stop-color="#C4F4FF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1_223" x1="172.688" y1="665.26" x2="20.6608" y2="490.255" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B2D2F8" stop-opacity="0"/>
+<stop offset="1" stop-color="#C4F4FF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_1_223" x1="626.372" y1="282" x2="180.843" y2="599.765" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3A1DEC"/>
+<stop offset="0.25698" stop-color="#8ABDF7"/>
+<stop offset="1" stop-color="#F8FFFF"/>
+</linearGradient>
+<linearGradient id="paint3_linear_1_223" x1="432.91" y1="-73.6704" x2="-18.6993" y2="597.954" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D57EC"/>
+<stop offset="0.25698" stop-color="#34A7E8"/>
+<stop offset="1" stop-color="#7AE2EF"/>
+</linearGradient>
+<clipPath id="clip0_1_223">
+<rect width="278" height="640" fill="white" transform="matrix(1 8.74228e-08 8.74228e-08 -1 0.305176 640)"/>
+</clipPath>
+</defs>
+</svg>
